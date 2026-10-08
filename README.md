@@ -1,0 +1,1 @@
+# almaharat-static-site
